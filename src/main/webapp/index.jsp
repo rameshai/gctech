@@ -10,7 +10,7 @@
     <br>
     <br>
 
-       <form:label path="password">Password</form:label>
+       <form:label path="password">NOt HERE</form:label>
        <form:password path="password" name="password" id="password" />
        <form:errors path="password" />
 
